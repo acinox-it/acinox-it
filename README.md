@@ -1,14 +1,31 @@
 <h1 align="center">Salut, moi c’est Abd 👋</h1>
 
 <p align="center">
-Full-stack Developer • Linux Sysadmin • Architecte Freelance • Étudiant Curieux
+Full-stack Developer • Linux Sysadmin • Architecte Freelance • Étudiant en Cybersécurité
 </p>
+
+---
+
+### 🧠 À propos de moi
+
+Je suis développeur full-stack passionné, avec une forte sensibilité pour l’architecture logicielle, la sécurité système, et les interfaces modernes.  
+🎓 Diplômé d’un **BTS SIO option SISR (Cybersécurité, Informatique & Réseaux)**, je poursuis actuellement mes études en Bachelor et je suis **à la recherche d’une alternance pour 2026/2027** en tant que **développeur full-stack**.  
+📅 Rythme souhaité : **3 semaines en entreprise / 1 semaine en formation**
+
+Je construis des applications web modulaires, sécurisées et évolutives, avec une approche centrée sur la clarté, la maintenabilité et l’expérience utilisateur.
 
 ---
 
 ### 🚀 Technologies et outils que j’utilise :
 
 <p align="center">
+  <!-- Langages & Frameworks -->
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
@@ -16,28 +33,32 @@ Full-stack Developer • Linux Sysadmin • Architecte Freelance • Étudiant C
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+  <!-- Styling -->
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MaterialUI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+  <!-- Outils & Réseaux -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Networking-007ACC?style=for-the-badge&logoColor=white"/>
 </p>
 
 ---
 
-### 📂 Projets en cours
-
-- 🧩 **Portfolio React** — App modulaire pour présenter mes projets et compétences
-- 🛍️ **Shop Builder** — Backend automatisé pour e-commerce
-- 🧪 **Skill Lab** — Mini-projets pour explorer de nouveaux outils
-
----
-
-### 📬 On reste connectés ?
+### 🤝 Let’s Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/ton-profil"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/ton-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://instagram.com/ton-handle"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://github.com/abd-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:ton.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
