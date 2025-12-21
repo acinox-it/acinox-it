@@ -1,7 +1,7 @@
 <h1 align="center">Salut, moi c’est Abd eldjalil 👋</h1>
 
 <p align="center">
-Full-stack Developer • Linux Sysadmin • Architecte Freelance • Étudiant en Cybersécurité
+Full-stack Developer • Linux Sysadmin • Étudiant
 </p>
 
 ---
@@ -23,7 +23,6 @@ Je construis des applications web modulaires, sécurisées et évolutives, avec 
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
@@ -40,7 +39,6 @@ Je construis des applications web modulaires, sécurisées et évolutives, avec 
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 </p>
 
 <p align="center">
