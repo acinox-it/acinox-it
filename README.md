@@ -43,6 +43,15 @@ Je construis des applications web modulaires, sécurisées et évolutives, avec 
 
 ---
 
+### 🖥️ Système
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="40"/>
+  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" height="40"/>
+</p>
+
+---
+
 ### 🧰 Outils
 
 <p align="center">
@@ -51,15 +60,6 @@ Je construis des applications web modulaires, sécurisées et évolutives, avec 
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="40"/>
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="40"/>
   <img src="https://skillicons.dev/icons?i=neovim" alt="Neovim" height="40"/>
-</p>
-
----
-
-### 🌐 Réseau
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="40"/>
-  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" height="40"/>
 </p>
 
 ---
