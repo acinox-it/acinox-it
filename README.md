@@ -1,27 +1,27 @@
-<h1 align="center">Salut, moi c’est Abd eldjalil 👋</h1>
+<h1 align="center">Salut, moi c’est **Abd Eldjalil** 👋</h1>
 
 <p align="center">
-Full-stack Developer • Linux Sysadmin • Étudiant
+Full‑stack Developer • Linux Sysadmin • Étudiant
 </p>
 
 ---
 
 ### 🧠 À propos de moi
 
-Je suis développeur full-stack passionné, avec une forte sensibilité pour l’architecture logicielle, la sécurité système, et les interfaces modernes.  
-🎓 Diplômé d’un **BTS CIEL option IR (Cybersécurité, Informatique & Réseaux)**, je poursuivrai mes études en Bachelor et je suis **à la recherche d’une alternance pour 2026/2027** en tant que **développeur full-stack**.  
+Je suis développeur full‑stack passionné, avec une forte sensibilité pour l’architecture logicielle, la sécurité système et les interfaces modernes.  
+🎓 Diplômé d’un **BTS CIEL option IR (Cybersécurité, Informatique & Réseaux)**, je poursuivrai mes études en Bachelor et je suis **à la recherche d’une alternance pour 2026/2027** en tant que **développeur full‑stack**.  
 📅 Rythme souhaité : **3 semaines en entreprise / 1 semaine en formation**
 
 Je construis des applications web modulaires, sécurisées et évolutives, avec une approche centrée sur la clarté, la maintenabilité et l’expérience utilisateur.
 
 ---
 
-### 🚀 Technologies et outils que j’utilise :
+### 🚀 Technologies et outils que j’utilise
 
 <p align="center">
   <!-- Langages -->
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
@@ -29,7 +29,7 @@ Je construis des applications web modulaires, sécurisées et évolutives, avec 
 <p align="center">
   <!-- Frameworks Frontend -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
@@ -38,7 +38,7 @@ Je construis des applications web modulaires, sécurisées et évolutives, avec 
   <!-- Frameworks Backend -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -53,12 +53,12 @@ Je construis des applications web modulaires, sécurisées et évolutives, avec 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Networking-00A1E0?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Networking-00A1E0?style=for-the-badge&logo=ethernet&logoColor=white"/>
 </p>
 
 ---
 
-### 🤝 Let’s Connect
+### 🤝 Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abd-eldjalil-sahraoui/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
