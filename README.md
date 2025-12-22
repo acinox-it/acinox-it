@@ -1,4 +1,4 @@
-<h1 align="center">Salut, moi c’est **Abd Eldjalil** 👋</h1>
+<h1 align="center">Salut, moi c'est **Abd Eldjalil** 👋</h1>
 
 <p align="center">
 Full‑stack Developer • Linux Sysadmin • Étudiant
@@ -8,24 +8,24 @@ Full‑stack Developer • Linux Sysadmin • Étudiant
 
 ### 🧠 À propos de moi
 
-Je suis développeur full‑stack passionné, avec une forte sensibilité pour l’architecture logicielle, la sécurité système et les interfaces modernes.  
-🎓 Diplômé d’un **BTS CIEL option IR (Cybersécurité, Informatique & Réseaux)**, je poursuivrai mes études en Bachelor et je suis **à la recherche d’une alternance pour 2026/2027** en tant que **développeur full‑stack**.  
+Je suis développeur full‑stack passionné, avec une forte sensibilité pour l'architecture logicielle, la sécurité système et les interfaces modernes.  
+🎓 Diplômé d'un **BTS CIEL option IR (Cybersécurité, Informatique & Réseaux)**, je poursuivrai mes études en Bachelor et je suis **à la recherche d'une alternance pour 2026/2027** en tant que **développeur full‑stack**.  
 📅 Rythme souhaité : **3 semaines en entreprise / 1 semaine en formation**
 
-Je construis des applications web modulaires, sécurisées et évolutives, avec une approche centrée sur la clarté, la maintenabilité et l’expérience utilisateur.
+Je construis des applications web modulaires, sécurisées et évolutives, avec une approche centrée sur la clarté, la maintenabilité et l'expérience utilisateur.
 
 ---
 
-### 🚀 Technologies et outils que j’utilise
+### 🚀 Technologies et outils que j'utilise
 
 <p align="center">
   <!-- Langages -->
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&logoWidth=20" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoWidth=20" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&logoWidth=20" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&logoWidth=20" alt="CSS"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 </p>
 
 <p align="center">
@@ -62,11 +62,6 @@ Je construis des applications web modulaires, sécurisées et évolutives, avec 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
 </p>
-
-**Compétences réseau**  
-- **Networking** : routage, sous‑réseaux, VLANs, diagnostics (ping, traceroute).  
-- **Linux** : administration système, gestion des services, journaux, sécurité.  
-- **Bash** : scripts d’automatisation, gestion de tâches, pipelines.
 
 ---
 
