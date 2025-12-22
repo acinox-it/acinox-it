@@ -1,4 +1,4 @@
-<h1 align="center">Salut, moi c'est **Abd Eldjalil** 👋</h1>
+<h1 align="center">Salut, moi c'est Abd Eldjalil 👋</h1>
 
 <p align="center">
 Full‑stack Developer • Linux Sysadmin • Étudiant
@@ -61,11 +61,6 @@ Je construis des applications web modulaires, sécurisées et évolutives, avec 
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="40"/>
   <img src="https://skillicons.dev/icons?i=bash" alt="Bash" height="40"/>
 </p>
-
-**Compétences réseau**  
-- **Networking** : routage, sous‑réseaux, VLANs, diagnostics (ping, traceroute).  
-- **Linux** : administration système, gestion des services, journaux, sécurité.  
-- **Bash** : scripts d'automatisation, gestion de tâches, pipelines.
 
 ---
 
