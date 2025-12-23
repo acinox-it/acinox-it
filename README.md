@@ -53,7 +53,6 @@ Je construis des applications web, desktop et embarquées modulaires, sécurisé
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="40"/>
   <img src="https://skillicons.dev/icons?i=bash" alt="Bash" height="40"/>
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="40"/>
-  <img src="https://www.proxmox.com/images/proxmox/Proxmox-logo-standard-hex.png" alt="Proxmox" height="40"/>
 </p>
 
 #### 🔧 DevOps & Outils
