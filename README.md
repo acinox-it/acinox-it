@@ -45,7 +45,8 @@ Je construis des applications web, desktop et embarquées modulaires, sécurisé
 
 #### 🔌 IoT & Embarqué
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino" alt="ESP32/Arduino" height="40"/>
+  <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" height="40"/>
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" height="40"/>
 </p>
 
 #### 🖥️ Système & Infrastructure
