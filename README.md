@@ -1,15 +1,15 @@
 <h1 align="center">Salut, moi c'est Abd Eldjalil 👋</h1>
 
 <p align="center">
-Full‑stack Developer • Linux Sysadmin • Étudiant
+Developer • Linux Sysadmin • Étudiant
 </p>
 
 ---
 
 ### 🧠 À propos de moi
 
-Je suis développeur full‑stack passionné, avec une forte sensibilité pour l'architecture logicielle, la sécurité système et les interfaces modernes.  
-🎓 Diplômé d'un **BTS CIEL option IR (Cybersécurité, Informatique & Réseaux)**, je poursuivrai mes études en Bachelor et je suis **à la recherche d'une alternance pour 2026/2027** en tant que **développeur full‑stack**.  
+Je suis développeur passionné, avec une forte sensibilité pour l'architecture logicielle, la sécurité système et les interfaces modernes.  
+🎓 Diplômé d'un **BTS CIEL option IR (Cybersécurité, Informatique & Réseaux)**, je poursuivrai mes études en Bachelor et je suis **à la recherche d'une alternance pour 2026/2027** en tant que **développeur**.  
 📅 Rythme souhaité : **3 semaines en entreprise / 1 semaine en formation**
 
 Je construis des applications web modulaires, sécurisées et évolutives, avec une approche centrée sur la clarté, la maintenabilité et l'expérience utilisateur.
@@ -21,24 +21,20 @@ Je construis des applications web modulaires, sécurisées et évolutives, avec 
 <p align="center">
   <!-- Langages -->
   <img src="https://skillicons.dev/icons?i=rust" alt="Rust" height="40"/>
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" height="40"/>
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="40"/>
+  <img src="https://skillicons.dev/icons?i=cs" alt="C#" height="40"/>
   <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" height="40"/>
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="40"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="40"/>
 </p>
 
 <p align="center">
   <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=react" alt="React" height="40"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="40"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" height="40"/>
 </p>
 
 <p align="center">
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=express" alt="Express" height="40"/>
   <img src="https://skillicons.dev/icons?i=adonis" alt="Adonis" height="40"/>
-  <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" height="40"/>
+  <img src="https://skillicons.dev/icons?i=net" alt=".Net" height="40"/>
 </p>
 
 ---
@@ -52,6 +48,14 @@ Je construis des applications web modulaires, sécurisées et évolutives, avec 
 
 ---
 
+### 📦 Virtualisation
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="40"/>
+</p>
+
+---
+
 ### 🧰 Outils
 
 <p align="center">
@@ -59,7 +63,7 @@ Je construis des applications web modulaires, sécurisées et évolutives, avec 
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40"/>
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="40"/>
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="40"/>
-  <img src="https://skillicons.dev/icons?i=neovim" alt="Neovim" height="40"/>
+  <img src="https://skillicons.dev/icons?i=vim" alt="Vim" height="40"/>
 </p>
 
 ---
